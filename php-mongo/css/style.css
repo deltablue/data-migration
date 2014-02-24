@@ -1,0 +1,24 @@
+#oberer_hauptrahmen {
+		border: 1px solid red;
+		height: 100px;
+}
+
+#mittlerer_hauptrahmen {
+		border: 1px solid black;
+		width: 800px;
+		margin-left: auto;
+		margin-right: auto;
+}
+
+
+#innerer_rechter_rahmen {
+		border: 1px solid green;
+		display: block;
+		width: 399px;
+		float: right;
+}
+
+#innerer_linker_rahmen {
+		border: 1px solid blue;
+		margin-right: 400;
+}
